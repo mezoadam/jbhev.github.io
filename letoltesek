@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>Letöltések</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Letöltések</h1>
+    <nav>
+      <a href="index.html">Vissza a főoldalra</a>
+    </nav>
+  </header>
+  <footer>
+    <p>2026</p>
+  </footer>
+</body>
+</html>
