@@ -2,11 +2,13 @@ header{
   text-align: center;
   font-size: 18px;
 }
-header nav a{
+header nav{
   background-color: #646464;
 }
 footer{
   background-color: #C3C3C3;
-  text-align: center;
   font-size: 16px;
+}
+footer p{
+    text-align: center;
 }
