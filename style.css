@@ -2,8 +2,9 @@ header{
   text-align: center;
   font-size: 18px;
 }
-header nav{
+header nav a{
   background-color: #646464;
+  color: #ffffff;
 }
 footer{
   background-color: #C3C3C3;
