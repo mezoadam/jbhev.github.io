@@ -5,10 +5,12 @@ header{
 nav{
   background-color: #646464;
   margin: 0px 0;
+  padding: 4px;
 }
 nav a{
   color: #ffffff;
   text-decoration: none;
+  padding: 8px;
 }
 footer{
   background-color: #C3C3C3;
