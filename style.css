@@ -2,9 +2,12 @@ header{
   text-align: center;
   font-size: 18px;
 }
-header nav a{
+nav{
   background-color: #646464;
+}
+nav a{
   color: #ffffff;
+  text-decoration: none;
 }
 footer{
   background-color: #C3C3C3;
