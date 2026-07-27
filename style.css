@@ -4,13 +4,12 @@ header{
 }
 nav{
   background-color: #646464;
-  margin: 0px 0;
-  padding: 4px;
+  padding: 4px 0;
 }
 nav a{
   color: #ffffff;
   text-decoration: none;
-  padding: 8px;
+  padding: 8px 0;
 }
 footer{
   background-color: #C3C3C3;
